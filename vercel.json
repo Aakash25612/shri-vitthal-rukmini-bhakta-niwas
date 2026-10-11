@@ -5,6 +5,14 @@
     {
       "source": "/images/(.*)",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800" }]
+    },
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "text/xml; charset=utf-8" },
+        { "key": "Content-Disposition", "value": "inline" },
+        { "key": "X-Robots-Tag", "value": "noindex" }
+      ]
     }
   ]
 }
