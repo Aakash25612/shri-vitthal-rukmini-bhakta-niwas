@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.shrivitthalrukminibhaktaniwas.online/sitemap.xml
+Sitemap: https://www.shrivitthalrukminibhaktaniwas.online/sitemap-pages.xml

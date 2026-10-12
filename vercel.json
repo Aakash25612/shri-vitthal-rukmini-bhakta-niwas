@@ -12,6 +12,13 @@
         { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
         { "key": "Content-Disposition", "value": "inline" }
       ]
+    },
+    {
+      "source": "/sitemap-pages.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
+        { "key": "Content-Disposition", "value": "inline" }
+      ]
     }
   ]
 }
